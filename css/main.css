@@ -161,6 +161,7 @@ dt {
 }
 
 blockquote {
+  border-left: none;
   border-left-color: slategray;
   color: slategray;
 }
